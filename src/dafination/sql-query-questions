@@ -1,0 +1,62 @@
+This file contains SQL questions.
+Please read the questions and answer.
+
+What is Database?
+A. database is a structure aet of data held in a computer, especially one that is accessible in various ways: a database covering nine million workers.
+
+What is DBMS?
+Data Base Management Software
+
+What is the difference between SQL and MySQL?
+SQL is a language which is used to operate your database whereas MySQL was one of the first open-source database available in the market. SQL is used in the accessing.
+
+What is RDBMS? How is it different from DBMS?
+
+What are Tables and Fields?
+Tables contain rows and columns, where the rows are known as records and the columns are known as fields.
+What is SQL?
+
+SQL is a query structure language an international standard for database manipulation.
+
+What are Constraints in SQL?
+
+What is a Primary Key?
+Primary keys are the unique links to related information in other tables where the primary key is used.
+
+What is a Foreign Key?
+ A foreign key is a column or group of columns in a relational database table that provides a link between data in two tables.
+
+What is Normalization?
+
+the process of bringing or returning something to a normal condition or state. the normalization of teh situation will make the area more conducive to business activities.
+
+
+You have 2 tables given below.
+
+Order Table:
+
+OrderID	 CustomerID	  OrderDate
+20508	    1	      2014-09-10
+30407	    2	      2016-09-19
+40250	    10	      2020-03-20
+
+Customer Table:
+
+CustomerID	   CustomerName	    CustomerPhone	     Country
+1              John Dave	    1-718-203-9087	     Australia
+2	           Brian Gary	    1-646-789-3489	     USA
+3	           Chris Brown	    1-212-342-7843       Canada
+
+Please do the following on above Order table and Customer table:
+
+Inner Join:
+Left Join:
+Right Join:
+Full Join:
+
+On Customer Table, please Insert one row.
+
+On Order Table, please Update one row.
+
+
+
